@@ -1,0 +1,10 @@
+main_category;nb_produits;prix_moyen_reduit;prix_moyen_reel;remise_moy_pct;note_moy;avis_total;popularite_moy;pct_produits
+Electronics;490;5965.89;10127.31;50.8;4.08;15778848.0;36.07967680608365;36.3
+Home&Kitchen;448;2330.62;4162.07;40.1;4.04;2991069.0;30.303176733780763;33.2
+Computers&Accessories;375;842.65;1683.62;54.0;4.15;7728689.0;35.445408388520974;27.8
+OfficeProducts;31;301.58;397.19;12.4;4.31;149675.0;35.57225806451613;2.3
+HomeImprovement;2;337.0;799.0;57.5;4.25;8566.0;35.285;0.1
+MusicalInstruments;2;638.0;1347.0;46.0;3.9;88882.0;41.11;0.1
+Car&Motorbike;1;2339.0;4000.0;42.0;3.8;1118.0;26.68;0.1
+Health&PersonalCare;1;899.0;1900.0;53.0;4.0;3663.0;32.83;0.1
+Toys&Games;1;150.0;150.0;0.0;4.3;15867.0;41.59;0.1
