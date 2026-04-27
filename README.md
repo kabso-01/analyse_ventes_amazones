@@ -25,5 +25,7 @@ Note élevée ≠ produit populaire — un produit à 4,1★ avec 15 000 avis es
 
 
 ## Lancer le projet
-## bashpip install pandas numpy matplotlib seaborn
-## python Amazon.py 
+   ```
+bashpip install pandas numpy matplotlib seaborn
+python Amazon.py
+   ```
